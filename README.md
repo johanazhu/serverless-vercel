@@ -79,9 +79,15 @@ vercel 重新部署到新的预览页面
 
 vercel --prod：部署生产环境
 
+## 项目地址
+
+源码：https://github.com/johanazhu/serverless-vercel
+
+网站：https://serverless-vercel-lac.vercel.app/
+
 ## 总结
 
-用 vercel 部署 node 服务其实很简单，个人认为它是最小实现的最佳实践
+实现 vercel 上部署 serverless 的小 demo，后续会有大一点的实战
 
 ## 参考资料
 
